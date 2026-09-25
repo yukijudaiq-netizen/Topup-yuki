@@ -1,0 +1,6 @@
+{
+  "name": "MythicTopup MLBB - Top Up Game Mobile Legends Via ID",
+  "description": "Landing page resmi top up diamond Mobile Legends instan 1-3 detik via akun sendiri (User ID & Zone ID) dengan metode pembayaran lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
